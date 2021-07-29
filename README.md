@@ -3,12 +3,12 @@
 <img src= "eyes.png" width='300' />
 
 ## Project discription
-Given a web page with a single eye the follows the movement of the mouse on the screen the goal of the project was to create a second eye which would also follow the movement of the mouse. 
+Given a web page with a single eye that follows the movement of the mouse on the screen the goal of the project was to create a second eye which would also follow the movement of the mouse anywhere on the screen. 
 ## How to run
-Download all the files to your computer in the same file. Drag and drop the index.html file to a blank web browser. 
+The progam will run on the selected browser and you can begin moving the mouse anywhere on the screen and both eyes will follow the movement in sync. 
 
 ## Roadmap of future imporovments
-At the present time there are not plans to add future improvments
+Adding hands that reach in the direction of the mouse is the next improvement down the line.
 ## MIT License
 MIT License
 
